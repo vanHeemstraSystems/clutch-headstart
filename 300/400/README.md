@@ -126,7 +126,7 @@ $ docker-compose --file docker-compose.dev.yml --project-name remotion-prod up -
 
 If successful, you can browse to the start page of the new React App, which will look like below:
 
-![React App](https://user-images.githubusercontent.com/12828104/151762653-545d31d9-d35d-46db-b6fa-d07e0b3e70ed.png)
+![react-app-page](https://user-images.githubusercontent.com/12828104/159445680-b11a9f4b-e76b-48ee-b532-d387e6e4829f.png)
 
 http://localhost:80 (you can leave the port number out, as 80 is the default)
 
